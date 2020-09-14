@@ -1,2 +1,11 @@
 my source file
 a program change
+This is a 3rd line
+This is a 3rd line
+This is a 3rd line
+This is a 3rd line
+This is a 3rd line
+This is a 3rd line
+This is a 3rd line
+This is a 3rd line
+This is a 3rd line
